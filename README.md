@@ -1,3 +1,5 @@
-This repository contains the code for using DistilBERT for a language-model based regression task. The regression task relates to a Kaggle challenge (CommonLit Readability Prize) and the input data sets can be downloaded from Kaggle.
+## DistilBERT for a Language-based Regression Task
+
+An implementaion of DistilBERT for performing the regression task for Kaggle's "CommonLit Readability Prize" challenge. The input data sets can be downloaded from Kaggle.
 
 Validation Data RMSE (as per Kaggle dashboard): 0.606
