@@ -6,4 +6,5 @@
 
 An implementation of DistilBERT for Kaggle's "CommonLit Readability Prize" challenge. The source data sets can be downloaded from Kaggle's website.
 
-**RMSE (as per Kaggle dashboard): 0.606**
+<b> Evaluation Summary </b></br>
+**RMSE: 0.606**
